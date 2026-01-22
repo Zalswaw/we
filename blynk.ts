@@ -1,9 +1,7 @@
 /*******************************************************************************
  * Functions for Blynk
  *
- * Company: Cytron Technologies Sdn Bhd
- * Website: http://www.cytron.io
- * Email:   support@cytron.io
+ * Email:   rizalakmal@idn.sch.id
  *******************************************************************************/
 
 
